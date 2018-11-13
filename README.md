@@ -1,6 +1,6 @@
-# zhouzhoudai
+# vux
 
-> ZZDh5
+> 这是没有用vuex的手机端vux脚手架，适合不习惯用vu e x的用户
 
 ## Build Setup
 
